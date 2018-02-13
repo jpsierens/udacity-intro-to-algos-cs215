@@ -5,7 +5,7 @@ def russian(a,b):
         if x % 2:
             z = z + y
         y = y << 1 #this doubles the number
-        x = x >> 1 #this halves the number, rounded.
+        x = x >> 1 #this halves the number, rounded down (floored).
     return z
 
 print(russian(10, 5))
