@@ -8,4 +8,4 @@ https://stackoverflow.com/a/141873
 17 >> 1 is graphically explained by:
 10001 -> 01000
 
-it halves the number, rounded.
+it halves the number, rounded. 
